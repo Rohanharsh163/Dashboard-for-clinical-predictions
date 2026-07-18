@@ -1,10 +1,10 @@
-# 🏥 Clinical ML Pipeline Dashboard
+# Clinical ML Pipeline Dashboard
 
 An end-to-end Machine Learning pipeline for clinical prediction under temporal data shift. This project was developed as part of the **BITS F464 – Machine Learning** course and demonstrates the complete ML workflow, from data preprocessing and feature engineering to model training, evaluation, continual learning, and interactive visualization using Streamlit.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Healthcare datasets evolve over time, making it important to evaluate how machine learning models perform on future data. This project builds an automated pipeline that:
 
@@ -17,7 +17,7 @@ Healthcare datasets evolve over time, making it important to evaluate how machin
 
 ---
 
-## ✨ Features
+## Features
 
 - Interactive Streamlit dashboard
 - Automated data preprocessing pipeline
@@ -37,7 +37,7 @@ Healthcare datasets evolve over time, making it important to evaluate how machin
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The project uses the **Synthea-MIMIC Electronic Health Record (EHR)** dataset.
 
@@ -90,7 +90,7 @@ Interactive Dashboard
 
 ---
 
-## 📊 Feature Engineering
+## Feature Engineering
 
 The pipeline generates patient-level features including:
 
@@ -109,7 +109,7 @@ The pipeline generates patient-level features including:
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 - Decision Tree Classifier
 - Support Vector Machine (SVM)
@@ -123,7 +123,7 @@ Each model is evaluated on:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 The dashboard reports:
 
@@ -138,7 +138,7 @@ The dashboard reports:
 
 ---
 
-## 🖥️ Dashboard
+## Dashboard
 
 The Streamlit dashboard contains:
 
@@ -152,7 +152,7 @@ The Streamlit dashboard contains:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -169,7 +169,7 @@ The Streamlit dashboard contains:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository
 
@@ -208,7 +208,7 @@ Clinical-ML-Pipeline/
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 Through this project, we explored:
 
@@ -222,7 +222,7 @@ Through this project, we explored:
 
 ---
 
-## 👥 Team
+## Team
 
 - Sailesh Nichenametla
 - Rohan Harshith Amarthaluri
@@ -231,6 +231,16 @@ Through this project, we explored:
 
 ---
 
-## 📜 License
+##  My Contributions
+
+As part of a four-member team, I contributed to:
+
+- Building and integrating the interactive Streamlit dashboard.
+- Developing data preprocessing and feature engineering components.
+- Testing, debugging, and integrating the application for the final submission.
+
+---
+
+##  License
 
 This project was developed for academic purposes as part of the BITS Pilani Machine Learning course.
